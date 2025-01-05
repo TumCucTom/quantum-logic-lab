@@ -1,4 +1,4 @@
-# QuantumCircuitSimulator
+# Quantum Logic Lab
 
 **QuantumCircuitSimulator** is a web-based platform designed to make quantum computing accessible and interactive. Build, simulate, and visualize quantum circuits with an intuitive interface, leveraging cutting-edge quantum computing libraries for backend simulations.
 
