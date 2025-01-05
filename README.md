@@ -115,5 +115,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Start building quantum circuits today and explore the possibilities of quantum computing with **QuantumCircuitSimulator**!
+Start building quantum circuits today and explore the possibilities of quantum computing with **Quantum Logic Lab**!
 
